@@ -6,7 +6,6 @@ A minimalist Chrome extension to track your context window usage on `gemini.goog
 - **Real-time Progress Bar:** Visual feedback at the top of the chat.
 - **Context Awareness:** Automatically detects active model (3.1 Pro, 2.5, etc.) and sets limits.
 - **Draggable Label:** Keep the token count wherever it fits your workflow.
-- **Local Estimation:** Fast and private; no API key required.
 
 ## Installation (Developer Mode)
 1. Download this repository as a ZIP and extract it.
